@@ -9,3 +9,23 @@
 * * *
 
 #### Semestre 2
+
+* [Tecnologías de la Información](https://iar-unab.github.io/web/programas/FIC1603.pdf){:target="_blank"}
+* [Electrónica y Sistemas Digitales](https://iar-unab.github.io/web/programas/AUT1303.pdf){:target="_blank"}
+* [Cálculo Diferencial](https://iar-unab.github.io/web/programas/FMM112.pdf){:target="_blank"}
+* [Química y Ambiente](https://iar-unab.github.io/web/programas/QUI070.pdf){:target="_blank"}
+* [Introducción a la Mecánica](https://iar-unab.github.io/web/programas/FMF025.pdf){:target="_blank"}
+
+#### Semestre 3
+
+* [Ética, Sociedad y Trabajo](https://iar-unab.github.io/web/programas/FIC1602.pdf){:target="_blank"}
+* [Microcontroladores](https://iar-unab.github.io/web/programas/AUT1304.pdf){:target="_blank"}
+* [Cálculo Integral y Probabilidades](https://iar-unab.github.io/web/programas/FMM214.pdf){:target="_blank"}
+* [Planos y Normas Eléctricas](https://iar-unab.github.io/web/programas/AUT1401.pdf){:target="_blank"}
+* [Electricidad y Magnetismo](https://iar-unab.github.io/web/programas/FMF144.pdf){:target="_blank"}
+* [Fundamentos de Procesos Industriales](https://iar-unab.github.io/web/programas/IND1205.pdf){:target="_blank"}
+
+#### Semestre 4
+
+* [Inglés I](https://iar-unab.github.io/web/programas/ING119.pdf){:target="_blank"}
+* [
