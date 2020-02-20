@@ -28,4 +28,7 @@
 #### Semestre 4
 
 * [Inglés I](https://iar-unab.github.io/web/programas/ING119.pdf){:target="_blank"}
-* [
+* [Comunicación Efectiva](https://iar-unab.github.io/web/programas/FIC1604.pdf"){:target="_blank"}
+* [Economía](https://iar-unab.github.io/web/programas/IND1101.pdf){:target="_blank"}
+* [Controladores Lógico Programables](https://iar-unab.github.io/web/programas/AUT1305.pdf){:target="_blank"}
+* [Sistemas y Ecuaciones Diferenciales Lineales](https://iar-unab.github.io/web/programas/FMM312.pdf){:target="_blank"}
