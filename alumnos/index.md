@@ -21,7 +21,7 @@ Recuerda también las [Normas Generales para los cursos](https://iar-unab.github
 
 #### Documentos para Prácticas {#practicas}
 
-* [Solicitud de Práctica](https://iar-unab.github.io/web/alumnos/practica_solicitud.pdf){:target="_blank"}
+* [Solicitud de Práctica](https://iar-unab.github.io/web/alumnos/formulario_solicitud_practica.doc){:target="_blank"}
 * [Evaluación de Práctica](https://iar-unab.github.io/web/alumnos/practica_evaluacion.pdf){:target="_blank"}
 * [Pauta y Formato para Informe de Práctica](https://iar-unab.github.io/web/alumnos/pauta-formato-practica.docx)
 
