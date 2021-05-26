@@ -23,5 +23,5 @@ Recuerda también las [Normas Generales para los cursos](https://iar-unab.github
 
 * [Solicitud de Práctica](https://iar-unab.github.io/web/alumnos/practica_solicitud.pdf){:target="_blank"}
 * [Evaluación de Práctica](https://iar-unab.github.io/web/alumnos/practica_evaluacion.pdf){:target="_blank"}
-* [Pauta y Formato para Informe de Práctica](https://iar-unab.github.io/web/alumnos/pauta-formato-practica.docx) (sugerido para 2020, obligatorio para 2021)
+* [Pauta y Formato para Informe de Práctica](https://iar-unab.github.io/web/alumnos/pauta-formato-practica.docx)
 
