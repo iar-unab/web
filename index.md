@@ -8,7 +8,7 @@ En este sitio web podrás encontrar un atajo a toda la información relevante de
 
 
 
-## Director presenta artículo científico en 5to Congreso de Robótica y Neurociencia
+## Se inaugura página web (del ccee?) de Ing. en Automatización y Robótica UNAB
 
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
