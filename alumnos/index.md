@@ -27,3 +27,8 @@ Recuerda enviar los documentos o contactar ante cualquier duda administrativa de
 * [Evaluación de Práctica](https://iar-unab.github.io/web/alumnos/practica_evaluacion.pdf){:target="_blank"}
 * [Pauta y Formato para Informe de Práctica](https://iar-unab.github.io/web/alumnos/pauta-formato-practica.docx)
 
+#### Documentos para Proyecto de Título {#pt}
+* [Plantilla para Informe](https://iar-unab.github.io/web/alumnos/formato_memoria.docx)
+* [Plantilla para Presentación](https://iar-unab.github.io/web/alumnos/presentacion_unab_institucional.pptx)
+* [Rúbrica para Examen Proyecto de Título I](https://iar-unab.github.io/web/alumnos/rubrica_aut2605)
+* [Rúbrica para Examen Proyecto de Título II](https://iar-unab.github.io/web/alumnos/rubrica_aut2606.pdf)
