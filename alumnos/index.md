@@ -20,7 +20,9 @@ Recuerda también las [Normas Generales para los cursos](https://iar-unab.github
 * * *
 
 #### Documentos para Prácticas {#practicas}
+Recuerda enviar los documentos o contactar ante cualquier duda administrativa de las prácticas a Claudia Gamboa (claudia.gamboa@unab.cl). Ante consultas académicas dirigirse al Secretario Académico Roberto Larenas (rlarenas@unab.cl) y Dirección de Carrera Miguel Solis (miguel.solis@unab.cl) desde tu correo institucional.
 
+* [Convalidación de Práctica (por experiencia laboral)](https://iar-unab.github.io/web/alumnos/formulario_convalidacion_practica.doc){:target="_blank"}
 * [Solicitud de Práctica](https://iar-unab.github.io/web/alumnos/formulario_solicitud_practica.doc){:target="_blank"}
 * [Evaluación de Práctica](https://iar-unab.github.io/web/alumnos/practica_evaluacion.pdf){:target="_blank"}
 * [Pauta y Formato para Informe de Práctica](https://iar-unab.github.io/web/alumnos/pauta-formato-practica.docx)
